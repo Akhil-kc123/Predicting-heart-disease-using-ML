@@ -1,7 +1,11 @@
-Introduction
+Introduction :
+
+
 In the realm of healthcare, the ability to accurately predict heart disease can significantly alter patient outcomes and enhance preventative strategies. Our project embarks on this crucial journey, leveraging the power of machine learning to forge a path towards early detection and intervention. By meticulously analyzing a dataset composed of various health indicators, we aim to unveil patterns and insights that could predict the presence of heart disease. Employing two distinct yet powerful algorithms, Decision Trees and Naive Bayes, we navigate through the complexities of medical data, aspiring to develop a model that not only predicts with high accuracy but also provides interpretability for healthcare professionals.
 
-Project Summary
+Project Summary :
+
+
 The essence of our project lies in its comprehensive approach to tackling the challenge of predicting heart disease. The journey began with the careful loading of a dataset encompassing 12 feature columns, each a potential predictor of heart disease, alongside a target column indicating the presence or absence of the condition. Recognizing the importance of data quality, our initial efforts were dedicated to cleaning and preprocessing, ensuring the data's integrity and suitability for analysis.
 
 With a clean dataset at hand, we embarked on an exploratory data analysis (EDA), diving deep into the dataset's characteristics and uncovering preliminary insights. This phase was crucial for understanding the data's distribution, identifying outliers, and spotting patterns that could influence our model's predictions.
